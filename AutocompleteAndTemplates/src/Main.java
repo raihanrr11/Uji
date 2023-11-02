@@ -11,6 +11,6 @@ public class Main {
         System.out.println("Kecepatan: " + kecepatan + " m/s");
         System.out.println("Waktu: " + waktu + " detik");
         System.out.println("Jarak: " + jarakMeter + " meter");
-        
+
     }
 }
